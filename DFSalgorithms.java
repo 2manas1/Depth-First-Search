@@ -10,7 +10,7 @@ example tree->
    we have the above tree->
    
    1)pre-order-> +->L->R
-   10->20->12->13->12
+   10->20->15->13->12
    
    2)in-order-> L->+->R
    15->20->13->10->12
